@@ -18,6 +18,8 @@ I2C and SPI driver for the Bosch BME280 Temperature, Humidity, and Barometric Pr
 Installation and Dependencies
 =============================
 
+* This repo has been modified for the GY-BME280 board so i don't have to jump the runners to get 77 ( GYBME280 on x76)
+
 This driver depends on:
 
 * `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
