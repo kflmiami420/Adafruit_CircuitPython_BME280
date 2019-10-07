@@ -25,6 +25,8 @@ This driver depends on:
 * Adafruit CircuitPython `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
 * Bus Device `Bus Device <https://github.com/adafruit/Adafruit_CircuitPython_BusDevice>`_
 * Adafruit Blinka `Adafruit Blinka <https://github.com/adafruit/Adafruit_Blinka>`__
+* https://github.com/adafruit/Adafruit_Python_PureIO
+* https://github.com/adafruit/Adafruit_Python_PlatformDetect
 
 Please ensure that the driver and all dependencies are available on the
 CircuitPython filesystem.  This can be most easily achieved by downloading and
