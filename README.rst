@@ -22,9 +22,9 @@ Installation and Dependencies
 
 This driver depends on:
 
-* `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
-* `Bus Device <https://github.com/adafruit/Adafruit_CircuitPython_BusDevice>`_
-* Adafruit Blinka <https://github.com/adafruit/Adafruit_Blinka>`__
+* Adafruit CircuitPython `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
+* Bus Device `Bus Device <https://github.com/adafruit/Adafruit_CircuitPython_BusDevice>`_
+* Adafruit Blinka _`<https://github.com/adafruit/Adafruit_Blinka>`__
 
 Please ensure that the driver and all dependencies are available on the
 CircuitPython filesystem.  This can be most easily achieved by downloading and
